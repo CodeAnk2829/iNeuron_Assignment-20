@@ -1,0 +1,1 @@
+// Program in C to demonstrate how to handle the pointers in the program.
